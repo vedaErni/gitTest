@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Sputnik Engineering
+Implementation-Title: stringportal-ear
+Implementation-Version: 2.1.0
+Implementation-Vendor-Id: com.solarmax.stringportal
+Built-By: veda
+Build-Jdk: 1.7.0_80
+Ci-Build-Number: 
+Ci-Vcs-Number: 
+Created-By: Apache Maven 3.1.0
+Ci-Vcs-Branch: 
+Archiver-Version: Plexus Archiver
+
